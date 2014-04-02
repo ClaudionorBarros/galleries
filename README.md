@@ -1,5 +1,7 @@
 # PyroCMS Gallery
 
+[![Build Status](https://travis-ci.org/ClaudionorBarros/galleries.svg?branch=2.2/master)](https://travis-ci.org/ClaudionorBarros/galleries)
+
 * [Website](http://pyrocms.com/)
 * [Documentation](http://pyrocms.com/docs)
 * [License](http://pyrocms.com/legal/license)
